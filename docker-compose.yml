@@ -1,0 +1,39 @@
+version: '3.5'
+services: 
+    db:
+        container_name: db_hackathon_orc
+        image: mongo
+        command: mongod --quiet --logpath /dev/null
+        ports:
+            - 27017:27017
+
+    api:
+        depends_on: 
+            - db
+        volumes: 
+            - ./server:/app
+            - ./server/node_modules:/app/node_modules
+        container_name: backend_hackathon_orc
+        environment: 
+            - DATABASE_URL=mongodb://db/hackathon-orc
+        build: 
+            context: ./server
+        ports: 
+            - "3001:3001"
+        command: npm start
+    
+    app:
+        build: app
+        environment: 
+            CHOKIDAR_USEPOLLING: "true"
+        volumes: 
+            - ./app:/app
+            - ./app/node_modules:/app/node_modules
+        container_name: frontend_hackathon_orc
+        build: 
+            context: ./app
+        command: yarn start
+        ports: 
+            - "3000:3000"
+        depends_on: 
+            - api
