@@ -1,23 +1,60 @@
-# Hackathon Orc
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/759670081067417600/944195963621359626/logo.png" width="250px"/>
+</div>
 
-Projeto criado como um desafio para os membros da Empresa Júnior de Engenharia de Sotware da Universidade de Brasília. 
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Thyago-Mongo" height="30" width="80" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Thyago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thyago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Thyago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Thyago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thyago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thyago-Node" height="30" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</div><br/>
 
-Consiste em uma cópia com as funcionalidades básicas do Twitter, para que os membros da empresa possam colocar em prática suas habilidades relacionadas a React JS e Node JS, com Mongo DB, junto a linguagem Typescript.
+# Connection Turismo
+
+Projeto criado como um desafio para novos desenvolvedores, tem como objetivo desenvolver e habituar todos os membros com o JavaScript além de trazer uma experiencia em equipe. O projeto conta com a produção de uma aplicação que representa o projeto Connection Turismo, projeto criado e matido pela Coordenadora Geral de Áreas estratégicas para Desenvolvimento Turístico no Ministério do Turismo e tem como finalidade expor o turismo brasileiro e evidenciar os pontos do Brasil que menos tem atenção mas possuem um potencial enorme para crescimento.
+
+## **Pages**
+* HOME
+* SOBRE
+* GALERIA
+* EVENTOS
+* CATALOGO DE PROFISSIONAIS
+* FORMULARIO
+* LOJA
+
+
+## **Habilidades**:
+- ReactJS
+- NodeJS
+- MongoDB
+- Typescript
 
 ## Iniciativa idealizada por:
 
-* Lider: *[Gabriel Sabanai Trindade](https://github.com/Sabanai104)*
+* Scrum Master: *[Thyago Henrique Moura dos Anjos](https://github.com/thyagomoura)*
 
-* Membro: *[Millena Queiroz](https://github.com/MillenaQueiroz)*
+* Product Owner: *[Millena Queiroz](https://github.com/MillenaQueiroz)*
 
-* Membro: *[Lucas Santos](https://github.com/lucasgabrielgsp)*
+* Develop Team: *[Marcus Martins](https://github.com/marcusmartinsxx)*
 
-* Membro: *[Denniel William](https://github.com/Denniel-sudo)*
+* Develop Team: *[2](https://github.com/)*
 
-* Membro: *[João Victor Correia](https://github.com/CorreiaJV)*
+* Develop Team: *[3](https://github.com/)*
 
-## Rodando o projeto
+### Instruções para rodar o projeto
 
+##### INSTALAÇÔES:
+* Docker
+* yarn
+* reactjs
+* nodejs
+* insomnia
+* Vscode
+
+##### FUNCIONAMENTO:
 Para rodar o projeto, deve-se entrar tanto na pasta 'server' e pasta 'app' e rodar o comando:
 
 * yarn install
@@ -25,4 +62,3 @@ Para rodar o projeto, deve-se entrar tanto na pasta 'server' e pasta 'app' e rod
 Depois vá para a pasta raiz do projeto e rode:
 
 * sudo docker-compose up --build
-# HackathonOrc
