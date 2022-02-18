@@ -40,7 +40,7 @@ Projeto criado como um desafio para novos desenvolvedores, tem como objetivo des
 
 * Develop Team: *[Marcus Martins](https://github.com/marcusmartinsxx)*
 
-* Develop Team: *[2](https://github.com/)*
+* Develop Team: *[Lucas Felipe](https://github.com/lucasfs1007/lucasfs1007)*
 
 * Develop Team: *[3](https://github.com/)*
 
