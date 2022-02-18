@@ -42,7 +42,9 @@ Projeto criado como um desafio para novos desenvolvedores, tem como objetivo des
 
 * Develop Team: *[Lucas Felipe](https://github.com/lucasfs1007/lucasfs1007)*
 
-* Develop Team: *[3](https://github.com/)*
+* Develop Team: *[Iago Matos](https://github.com/iagoscm)*
+
+* Develop Team: *[Isac Mamede](https://github.com/Isac14)*
 
 ### Instruções para rodar o projeto
 
