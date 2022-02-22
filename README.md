@@ -38,6 +38,8 @@ Projeto criado como um desafio para novos desenvolvedores, tem como objetivo des
 
 * Product Owner: *[Millena Queiroz](https://github.com/MillenaQueiroz)*
 
+* Develop Team: *[Maria Abritta](https://github.com/mariaabritta)* 
+
 * Develop Team: *[Marcus Martins](https://github.com/marcusmartinsxx)*
 
 * Develop Team: *[Lucas Felipe](https://github.com/lucasfs1007/lucasfs1007)*
@@ -45,6 +47,7 @@ Projeto criado como um desafio para novos desenvolvedores, tem como objetivo des
 * Develop Team: *[Iago Matos](https://github.com/iagoscm)*
 
 * Develop Team: *[Isac Mamede](https://github.com/Isac14)*
+
 
 ### Instruções para rodar o projeto
 
